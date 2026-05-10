@@ -1,0 +1,15 @@
+{
+  "assignments": [
+    {
+      "assignment_id": "receipts-bb-001",
+      "universe": "breaking-bad",
+      "created_at": "2026-05-10T00:00:00Z",
+      "agents": [
+        { "name": "Heisenberg", "role": "Lead" },
+        { "name": "Jesse", "role": "Frontend Dev" },
+        { "name": "Gus", "role": "Backend Dev" },
+        { "name": "Hank", "role": "Tester" }
+      ]
+    }
+  ]
+}

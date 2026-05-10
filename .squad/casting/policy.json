@@ -1,0 +1,7 @@
+{
+  "universes": [
+    "breaking-bad"
+  ],
+  "max_capacity": 12,
+  "overflow_strategy": "diegetic-expansion"
+}
